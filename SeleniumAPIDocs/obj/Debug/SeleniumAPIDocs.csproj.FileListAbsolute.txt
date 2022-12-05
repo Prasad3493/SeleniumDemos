@@ -1,0 +1,13 @@
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\SeleniumAPIDocs\obj\Debug\SeleniumAPIDocs.csproj.AssemblyReference.cache
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\SeleniumAPIDocs\obj\Debug\SeleniumAPIDocs.csproj.SuggestedBindingRedirects.cache
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\SeleniumAPIDocs\obj\Debug\SeleniumAPIDocs.csproj.CoreCompileInputs.cache
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\SeleniumAPIDocs\bin\Debug\SeleniumAPIDocs.exe.config
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\SeleniumAPIDocs\bin\Debug\SeleniumAPIDocs.exe
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\SeleniumAPIDocs\bin\Debug\SeleniumAPIDocs.pdb
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\SeleniumAPIDocs\bin\Debug\WebDriver.dll
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\SeleniumAPIDocs\bin\Debug\WebDriver.Support.dll
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\SeleniumAPIDocs\bin\Debug\WebDriver.xml
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\SeleniumAPIDocs\bin\Debug\WebDriver.Support.xml
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\SeleniumAPIDocs\obj\Debug\SeleniumAPIDocs.csproj.CopyComplete
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\SeleniumAPIDocs\obj\Debug\SeleniumAPIDocs.exe
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\SeleniumAPIDocs\obj\Debug\SeleniumAPIDocs.pdb

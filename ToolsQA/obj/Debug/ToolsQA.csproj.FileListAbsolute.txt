@@ -1,0 +1,13 @@
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\ToolsQA\bin\Debug\ToolsQA.exe.config
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\ToolsQA\bin\Debug\ToolsQA.exe
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\ToolsQA\bin\Debug\ToolsQA.pdb
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\ToolsQA\bin\Debug\WebDriver.dll
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\ToolsQA\bin\Debug\WebDriver.Support.dll
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\ToolsQA\bin\Debug\WebDriver.xml
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\ToolsQA\bin\Debug\WebDriver.Support.xml
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\ToolsQA\obj\Debug\ToolsQA.csproj.AssemblyReference.cache
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\ToolsQA\obj\Debug\ToolsQA.csproj.SuggestedBindingRedirects.cache
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\ToolsQA\obj\Debug\ToolsQA.csproj.CoreCompileInputs.cache
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\ToolsQA\obj\Debug\ToolsQA.csproj.CopyComplete
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\ToolsQA\obj\Debug\ToolsQA.exe
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\ToolsQA\obj\Debug\ToolsQA.pdb

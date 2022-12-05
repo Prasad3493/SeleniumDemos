@@ -1,0 +1,13 @@
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\RediffAlert\bin\Debug\RediffAlert.exe.config
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\RediffAlert\bin\Debug\RediffAlert.exe
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\RediffAlert\bin\Debug\RediffAlert.pdb
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\RediffAlert\bin\Debug\WebDriver.dll
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\RediffAlert\bin\Debug\WebDriver.xml
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\RediffAlert\obj\Debug\RediffAlert.csproj.AssemblyReference.cache
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\RediffAlert\obj\Debug\RediffAlert.csproj.SuggestedBindingRedirects.cache
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\RediffAlert\obj\Debug\RediffAlert.csproj.CoreCompileInputs.cache
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\RediffAlert\obj\Debug\RediffAlert.csproj.CopyComplete
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\RediffAlert\obj\Debug\RediffAlert.exe
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\RediffAlert\obj\Debug\RediffAlert.pdb
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\RediffAlert\bin\Debug\WebDriver.Support.dll
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\RediffAlert\bin\Debug\WebDriver.Support.xml

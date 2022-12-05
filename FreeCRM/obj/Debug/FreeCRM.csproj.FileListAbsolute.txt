@@ -1,0 +1,13 @@
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\FreeCRM\bin\Debug\FreeCRM.exe.config
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\FreeCRM\bin\Debug\FreeCRM.exe
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\FreeCRM\bin\Debug\FreeCRM.pdb
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\FreeCRM\bin\Debug\WebDriver.dll
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\FreeCRM\bin\Debug\WebDriver.Support.dll
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\FreeCRM\bin\Debug\WebDriver.xml
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\FreeCRM\bin\Debug\WebDriver.Support.xml
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\FreeCRM\obj\Debug\FreeCRM.csproj.AssemblyReference.cache
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\FreeCRM\obj\Debug\FreeCRM.csproj.SuggestedBindingRedirects.cache
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\FreeCRM\obj\Debug\FreeCRM.csproj.CoreCompileInputs.cache
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\FreeCRM\obj\Debug\FreeCRM.csproj.CopyComplete
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\FreeCRM\obj\Debug\FreeCRM.exe
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\FreeCRM\obj\Debug\FreeCRM.pdb

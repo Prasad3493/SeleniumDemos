@@ -1,0 +1,13 @@
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\AmazonTest\bin\Debug\AmazonTest.exe.config
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\AmazonTest\bin\Debug\AmazonTest.exe
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\AmazonTest\bin\Debug\AmazonTest.pdb
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\AmazonTest\bin\Debug\WebDriver.dll
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\AmazonTest\bin\Debug\WebDriver.Support.dll
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\AmazonTest\bin\Debug\WebDriver.xml
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\AmazonTest\bin\Debug\WebDriver.Support.xml
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\AmazonTest\obj\Debug\AmazonTest.csproj.AssemblyReference.cache
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\AmazonTest\obj\Debug\AmazonTest.csproj.SuggestedBindingRedirects.cache
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\AmazonTest\obj\Debug\AmazonTest.csproj.CoreCompileInputs.cache
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\AmazonTest\obj\Debug\AmazonTest.csproj.CopyComplete
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\AmazonTest\obj\Debug\AmazonTest.exe
+E:\Selenium 6 oct\M3\Payback\SeleniumDemos\AmazonTest\obj\Debug\AmazonTest.pdb
